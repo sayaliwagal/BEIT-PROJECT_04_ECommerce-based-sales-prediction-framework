@@ -1,4 +1,4 @@
-# -tejaltandel-BEIT-PROJECT_04_ECommerce-based-sales-prediction-framework
+#BEIT-PROJECT_04_ECommerce-based-sales-prediction-framework
 
 Topic: E-Commerce Based Sales Prediction Framework
 
